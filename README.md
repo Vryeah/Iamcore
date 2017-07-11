@@ -1,0 +1,2 @@
+# Iamcore
+Java Project
